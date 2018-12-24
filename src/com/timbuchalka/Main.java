@@ -7,7 +7,7 @@ import java.util.Map;
  * 
  * Main.java
  * 
- * From Tim Buchalka's Complete Java Developer Course
+ * From yaser omrnar Complete Java Developer Course
  * Copyright (c) 2015-2016
  * Contact author at:  http://timbuchalka.com
  * 
